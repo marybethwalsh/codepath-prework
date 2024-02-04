@@ -25,12 +25,12 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 1. Locker
-    a. Storing links with an asthetic look
-    b. Seamless connection with other iOS apps
+    a) Storing links with an asthetic look
+    b) Seamless connection with other iOS apps
 
 2. Todoist
-    a. Updates across Windows and Apple products
-    b. Changeable label colors and priority ordering for easy organization
+    a) Updates across Windows and Apple products
+    b) Changeable label colors and priority ordering for easy organization
 
 3. Google Calendar
     a. Allows user to easily change any color using hex codes
