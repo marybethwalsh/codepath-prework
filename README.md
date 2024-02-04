@@ -1,11 +1,8 @@
-# codepath-prework
-color changing app
-
 # Prework - *Color Changing App*
 
 Submitted by: **Mary Beth Walsh**
 
-**Color Changing App** is an app that... [TODO] 
+**Color Changing App** is an app that randomly changes the background color upon the click of a button. 
 
 Time spent: **2** hours spent in total
 
