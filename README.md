@@ -33,8 +33,10 @@ The following **required** functionality is completed:
     b) Changeable label colors and priority ordering for easy organization
 
 3. Google Calendar
-    a. Allows user to easily change any color using hex codes
-    b. Several different views availble -- day, week, month, etc.
+    a) Allows user to easily change any color using hex codes
+    b) Several different views availble -- day, week, month, etc.
+
+As I am currently a college student, I would love to create an app that has estimated wait times for all the dining spots on our campus. It is often frustrating to have to stop by multiple places to check if there's a long line before finding one that you'd like to wait in. With a wait time app, students would be able to more easily evaluate where they should eat on campus to save everyone time. This would also likely ease the lines from building up as long with the option to check wait times before arriving. An additonal feature would be to list daily menus and include a warning about any ingredients that are missing that day.
    
 ## Notes
 
